@@ -66,3 +66,32 @@ DIVIDE(
     [Previous Month Sales]
 )
 
+## 📸 Dashboard Preview
+
+### Sales Performance Overview
+![Dashboard Page 1](Dashboard_page_1.png)
+
+### Product, Target & Monthly Analysis
+![Dashboard Page 2](Dashboard_page_2.png)
+
+## 💡 Key Insights
+
+- East region generated the highest overall sales.
+- Laptop was the highest-performing product by total sales.
+- Regional performance showed differences between actual sales and assigned targets.
+- Interactive filters allow analysis by Year, Region, Category, and Status.
+
+## 📁 Project Files
+
+- `Sales_Performance_Dashboard.pbix` — Power BI dashboard file
+- `Sales_Data.xlsx` — Source dataset
+- `Dashboard_page_1.png` — Main dashboard overview
+- `Dashboard_page_2.png` — Additional sales analysis
+
+## 👤 Author
+
+**Yousuf Khan**
+
+Data Analytics | Power BI | SQL | Excel
+)
+
